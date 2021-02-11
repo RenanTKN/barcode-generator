@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/barcode-generator/static/css/main.35f2ecc5.chunk.css",
+    "main.js": "/barcode-generator/static/js/main.b26a7d8a.chunk.js",
+    "main.js.map": "/barcode-generator/static/js/main.b26a7d8a.chunk.js.map",
+    "runtime-main.js": "/barcode-generator/static/js/runtime-main.0d3cb10b.js",
+    "runtime-main.js.map": "/barcode-generator/static/js/runtime-main.0d3cb10b.js.map",
+    "static/js/2.404c2de9.chunk.js": "/barcode-generator/static/js/2.404c2de9.chunk.js",
+    "static/js/2.404c2de9.chunk.js.map": "/barcode-generator/static/js/2.404c2de9.chunk.js.map",
+    "index.html": "/barcode-generator/index.html",
+    "static/css/main.35f2ecc5.chunk.css.map": "/barcode-generator/static/css/main.35f2ecc5.chunk.css.map",
+    "static/js/2.404c2de9.chunk.js.LICENSE.txt": "/barcode-generator/static/js/2.404c2de9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d3cb10b.js",
+    "static/js/2.404c2de9.chunk.js",
+    "static/css/main.35f2ecc5.chunk.css",
+    "static/js/main.b26a7d8a.chunk.js"
+  ]
+}
