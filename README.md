@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+Open [Barcode Generator](https://renantkn.github.io/barcode-generator/) to check the live demo
+
 ## Available Scripts
 
 In the project directory, you can run:
